@@ -1,0 +1,264 @@
+
+body{
+  text-align: center;
+  background-color: #e4fbff;
+}
+@media screen and (max-width: 480px) {
+  body {
+    background-color: #e4fbff;
+    height: 100vh;
+    text-align: center;
+
+  }
+}
+
+
+
+
+H1{
+  color: #393232;
+}
+h2{
+  color: #393232;
+padding-bottom: 10px;
+}
+.tuplam1{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+}
+.tuplam1{
+text-decoration: none;
+}
+.tuplam2{
+text-decoration: none;
+}
+.tuplam3{
+text-decoration: none;
+}
+.tuplam4{
+text-decoration: none;
+}
+.tuplam5{
+text-decoration: none;
+}
+.tuplam6{
+text-decoration: none;
+}
+.tuplam7{
+text-decoration: none;
+}
+.tuplam8{
+text-decoration: none;
+}
+.tuplam9{
+text-decoration: none;
+}
+.tuplam10{
+text-decoration: none;
+}
+.tuplam2{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+.tuplam1:hover{
+  color: black;
+}
+.tuplam2:hover{
+  color: black;
+}
+.tuplam3:hover{
+  color: black;
+}
+.tuplam4:hover{
+  color: black;
+}
+.tuplam5:hover{
+  color: black;
+}
+.tuplam6:hover{
+  color: black;
+}
+.tuplam7:hover{
+  color: black;
+}
+.tuplam8:hover{
+  color: black;
+}
+.tuplam9:hover{
+  color: black;
+}
+.tuplam10:hover{
+  color: black;
+}
+.tuplam3{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+
+}
+.tuplam4{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+
+}
+.tuplam5{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+.tuplam6{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+.tuplam7{  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+.tuplam8{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+.tuplam9{
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+.tuplam10 {
+  display: block;
+height: 90px;
+width: 1000px;
+margin-left: 200px;
+color: white;
+font-family: "Open Sans", sans-serif;
+font-size: 5.5vh;
+padding-top: 50px;
+border-radius: 2vh;
+background: #a1cae2;
+transition: 300ms;
+box-shadow: 1px 1px 15px 1px lightgrey;
+margin-top: 20px;
+}
+
+@media screen and (max-width: 480px) {
+  .size {
+    display: block;
+height: 30px;
+  width:300px;
+  padding: 10px 30px;
+
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px ;
+  margin-left: 0px;
+margin:5px auto;
+  border-radius: 2vh;
+  background: #a1cae2;
+  transition: 300ms;
+  box-shadow: 1px 1px 15px 1px lightgrey;
+  }
+}
+.hhh{
+  font-family: monospace;
+  color: #f4f9f9;
+}
+p{
+  font-family: serif;
+  color: #f4f9f9;
+}
+.next{
+  background-color: #435560;
+}
